@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<portfolio>
+    <name>Testing</name>
+    <latestDate>2013-08-19</latestDate>
+    <stocks>
+        <stock>
+            <ticker>AMZN</ticker>
+            <shares>3.0</shares>
+            <dateAdded>2013-06-04</dateAdded>
+        </stock>
+        <stock>
+            <ticker>GOOG</ticker>
+            <shares>3.0</shares>
+            <dateAdded>2013-08-19</dateAdded>
+        </stock>
+    </stocks>
+</portfolio>
