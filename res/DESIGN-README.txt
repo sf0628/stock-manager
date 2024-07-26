@@ -1,4 +1,4 @@
-Design changes made in Assignment 6:
+Recent design changes:
     In gui package (new):
     - Added GUIView and GUIFeatures interfaces to support the new view and controller for the GUI
         - GUIView: represents the new view interface, contains methods to appropriately display,
